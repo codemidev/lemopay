@@ -1,0 +1,12 @@
+HTTrack3.49-4+htsjava launched on Tue, 13 Jun 2023 10:58:40 at https://app.sendcash.africa/
+(winhttrack https://app.sendcash.africa/ -W -O "./demo" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:00:03	Warning: 	Link https://app.sendcash.africa/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-4 mirror complete in 1 minutes 58 seconds : 110 links scanned, 109 files written (5277257 bytes overall) [3151522 bytes received at 26707 bytes/sec], 3283341 bytes transferred using HTTP compression in 93 files, ratio 33%, 36.6 requests per connection
+(No errors, 1 warnings, 0 messages)

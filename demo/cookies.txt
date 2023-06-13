@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.sendcash.africa	TRUE	/	FALSE	1999999999	_cfuvid	EQ8_gvge3lFdy_zCtHzsARIdqT43P40cGjPbLD714Tw-1686650323088-0-604800000
+app.sendcash.africa	TRUE	/	FALSE	1999999999	SameSite	None
+app.sendcash.africa	TRUE	/	FALSE	1999999999	sendcash-platform	web
+

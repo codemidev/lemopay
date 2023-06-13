@@ -1,0 +1,27 @@
+{
+	"name": "Sendcash — Money Transfers",
+	"short_name": "Sendcash",
+	"icons": [
+		{
+			"src": "/assets/icons/app/192x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/assets/icons/app/384x384.png",
+			"sizes": "384x384",
+			"type": "image/png"
+		},
+		{
+			"src": "/assets/icons/app/512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#6889FD",
+	"background_color": "#F1F8FF",
+	"start_url": "/home",
+	"display": "standalone",
+	"orientation": "portrait"
+}

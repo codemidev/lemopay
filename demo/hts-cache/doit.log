@@ -1,0 +1,8 @@
+https://app.sendcash.africa/ -W -O "./demo" -%v
+File generated automatically on Tue, 13 Jun 2023 10:58:40, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
